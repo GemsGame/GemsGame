@@ -1,57 +1,73 @@
-<div align="center">
-  <h1>Hi, I'm GemsGame 👋</h1>
-  <h3>Fullstack & Web3 Startup Founder | Product Builder</h3>
-  <p>Shipping decentralized protocols, crypto infrastructure, and scalable fullstack products from 0 to 1.</p>
+# Hi, I'm GemsGame 👋
+### Fullstack & Web3 Startup Founder · AI & DeFi Product Builder
 
-  <p>
-    <a href="https://t.me[your_telegram]"><img src="https://shields.io" alt="Telegram"/></a>
-    <a href="https://x.com[your_twitter]"><img src="https://shields.io" alt="X"/></a>
-    <a href="https://linkedin.com[your_linkedin]"><img src="https://shields.io" alt="LinkedIn"/></a>
-    <a href="https://[your-startup-or-portfolio.com]"><img src="https://shields.io" alt="Website"/></a>
-    <a href="mailto:[founder@yourdomain.com]"><img src="https://shields.io" alt="Email"/></a>
-  </p>
-</div>
+Shipping high-frequency trading protocols, AI-powered SaaS platforms, and scalable Web3 infrastructure from 0 to 1.
+
+🔗 **Live Products:** [Reflect](https://reflect.cx) · [AI Detector](https://aidetector.my) · [Identify Skin](https://identify.skin)  
+📬 **Connect:** [GitHub (79+ Repos)](https://github.com) · [Telegram](https://t.me) · [X (Twitter)](https://x.com) · [Email](mailto:hello@reflect.cx)
 
 ---
 
 ### 🚀 Founder's Note
 
-- 🏗️ **Building:** Next-gen Web3 products, payment rails, and automated trading infrastructure (`79+` public repositories shipped).
-- ⛓️ **On-Chain & Backend:** Architecting smart contracts in **Solidity** & **Move**, backed by high-throughput **Node.js** / **NestJS** microservices.
-- ⚡ **Frontend & Product:** Crafting fast, intuitive dApps and SaaS dashboards with **React** & **Next.js**.
-- 🤝 **Open to:** Strategic partnerships, Web3/AI startup collaborations, and early-stage product discussions.
+- 🏗️ **Product Builder:** Founder of multiple live production SaaS & Web3 platforms serving hundreds of thousands of users across **DeFi trading**, **NLP/AI detection**, and **Computer Vision health-tech**.
+- ⛓️ **On-Chain & Backend:** Architecting low-latency execution engines, payment rails, and smart contracts in **Solidity** & **Move**, powered by **Node.js** and **NestJS**.
+- ⚡ **Frontend & Product:** Designing clean, high-converting interfaces and real-time analytics dashboards with **React** and **Next.js**.
+- 🤝 **Open To:** Strategic partnerships, institutional DeFi/AI collaborations, and early-stage product discussions.
 
 ---
 
 ### 🛠 Core Tech Stack
 
-**Languages & Smart Contracts**
-![TypeScript](https://shields.io)
-![Solidity](https://shields.io)
-![Move](https://shields.io)
-![JavaScript](https://shields.io)
-
-**Frontend**
-![Next.js](https://shields.io)
-![React](https://shields.io)
-
-**Backend & Infrastructure**
-![Node.js](https://shields.io)
-![NestJS](https://shields.io)
+| Layer | Technologies |
+| :--- | :--- |
+| **Languages & Smart Contracts** | `TypeScript` · `Solidity` · `Move` · `JavaScript` |
+| **Frontend & Product UI** | `Next.js` · `React` |
+| **Backend & Infrastructure** | `Node.js` · `NestJS` |
 
 ---
 
-### 📦 Featured Projects & Products
+### 🌟 Flagship SaaS & Web3 Products
 
-| Project | What It Does | Stack | Links |
+#### 📈 [Reflect](https://reflect.cx) — Institutional-Grade Polymarket Copy Trading & Analytics
+> **Stack:** `Next.js` · `NestJS` · `TypeScript` · `Polygon / Polymarket APIs`  
+> **Links:** [Launch App](https://reflect.cx) · [Methodology & About](https://reflect.cx)
+
+Non-custodial prediction market analytics and automated mirror-trading platform built for serious traders, desks, and funds.
+- **0.1s Execution Latency:** Direct API order mirroring with customizable position sizing, stop-loss triggers, and drawdown circuit breakers.
+- **Proprietary Trader Scoring:** Indexes `1,000+` top Polymarket wallets, computing real-time PnL, ROI, win rates, conviction scores, and risk grades.
+- **Zero Turnover Fees:** Flat subscription architecture with isolated wallet tracking and end-to-end encrypted execution.
+
+---
+
+#### 🧠 [AI Detector](https://aidetector.my) — Explainable Linguistic AI Text Verification SaaS
+> **Stack:** `Next.js` · `Node.js` · `TypeScript` · `Ensemble ML`  
+> **Links:** [Try Detector](https://aidetector.my) · [Research & About](https://aidetector.my)
+
+High-precision linguistic analysis engine trusted by **350,000+ educators, students, writers, and enterprises** worldwide.
+- **Peer-Reviewed Linguistic Metrics:** Evaluates **Perplexity**, **Burstiness**, and **Syntax Depth** alongside ensemble models (XGBoost, LightGBM, CatBoost) to achieve **99.5% accuracy** with `<2%` false positives.
+- **Sentence-by-Sentence Explainability:** Highlights exact AI-generated fragments across 10+ LLMs (GPT-5+, Claude, Gemini, DeepSeek, LLaMA) instead of returning opaque black-box scores.
+- **Privacy-First Architecture:** Zero permanent text storage, encrypted transit, bulk document scanning, and PDF audit reports.
+
+---
+
+#### 🔬 [Identify Skin](https://identify.skin) — AI-Powered Visual Dermatology & Mole Tracking
+> **Stack:** `Next.js` · `NestJS` · `TypeScript` · `Computer Vision`  
+> **Links:** [Open Scanner](https://identify.skin) · [Clinical Validation](https://identify.skin)
+
+Visual skin monitoring and early-warning screening platform used by **50,000+ users** globally.
+- **Clinical-Grade Pattern Recognition:** Trained on **5M+ dermatoscopic images** (ISIC, HAM10000) to evaluate `30+` morphological features across **150+ skin conditions** using ABCD(E) criteria.
+- **Longitudinal Mole Mapping:** Side-by-side photo alignment tracks subtle shifts in asymmetry, borders, color, and diameter over time.
+- **Compliant & Secure:** Built with strict GDPR & HIPAA privacy safeguards and instant visual reports for dermatologists.
+
+---
+
+### 📦 Open-Source & Web3 R&D Infrastructure
+
+| Repository | Architecture & Capabilities | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **[Reflect]** | *[Polymarket copy trading service]* | `Next.js`, `NestJS` | [Live App](https://reflect.cx) • [About / Docs](https://reflect.cx/en/about) |
-| **[AI Detector]** | *[SaaS ai text detector service]* | `Next.js`, `Node.js` | [Live App](https://aidetector.my) • [About / Info](https://aidetector.my/en/about) |
-| **[Identify Skin]** | *[SaaS skin analysis service]* | `Next.js`, `NestJS` | [Live App](https://identify.skin) • [About / Docs](https://identify.skin/en/about) |
-| **[Polybot](https://github.com)** | Automated cryptocurrency arbitrage trading engine built for low-latency execution | `TypeScript`, `Node.js` | [Source Code](https://github.com) |
-| **[Crypto Wallet JS](https://github.com)** | Multi-chain CLI & library for generating Ethereum, Bitcoin, and Tron wallets | `Node.js`, `JavaScript` | [Source Code](https://github.com) |
-| **[Task Payment System](https://github.com)** | Core payment processing architecture featuring an emission center and settlement logic | `TypeScript`, `Node.js` | [Source Code](https://github.com) |
-| **[Hash Layer Miner](https://github.com)** | Lightweight CPU mining implementation and hashing layer exploration | `TypeScript`, `Node.js` | [Source Code](https://github.com) |
-| **[Unlocker](https://github.com)** | Cryptographic wallet recovery & entropy research utility for BTC/ETH | `Node.js`, `JavaScript` | [Source Code](https://github.com) |
-
----
+| **[Polybot](https://github.com/polybot)** | Low-latency cryptocurrency arbitrage trading bot engineered for automated cross-market spread capture and real-time order execution. | `TypeScript`, `Node.js` | [View Repo](https://github.com/polybot) |
+| **[Crypto Wallet JS](https://github.com/crypto-wallet-js)** | Multi-chain cryptographic library & CLI tool for deterministic generation and management of **Ethereum**, **Bitcoin**, and **Tron** wallets. | `Node.js`, `JavaScript` | [View Repo](https://github.com/crypto-wallet-js) |
+| **[Task Payment System](https://github.com/task-payment-system)** | Modular payment processing core featuring a central emission engine, ledger accounting, and automated transaction settlement logic. | `TypeScript`, `Node.js` | [View Repo](https://github.com/task-payment-system) |
+| **[Hash Layer Miner](https://github.com/hash-layer-miner)** | Lightweight multi-threaded CPU mining implementation exploring proof-of-work hashing algorithms and worker orchestration in Node.js. | `TypeScript`, `Node.js` | [View Repo](https://github.com/hash-layer-miner) |
+| **[Unlocker](https://github.com/unlocker)** | High-speed cryptographic keyspace & entropy research utility for BTC/ETH wallet recovery and address derivation benchmarking. | `Node.js`, `JavaScript` | [View Repo](https://github.com/unlocker) |
